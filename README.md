@@ -22,8 +22,6 @@ By empowering young people to collaborate and share their insights, the project 
 
 ## 🛠️ Built With
 - **xAI's Grok Models and API** - For leveraging advanced AI capabilities.
-- **[Your Tech Stack Here]** - (e.g., Python, Flask, React, Node.js, etc.)
-- **[Any additional tools]**
 
 ---
 
@@ -41,14 +39,6 @@ By empowering young people to collaborate and share their insights, the project 
 3. **Drive Innovation** by integrating fresh perspectives and actionable ideas.
 4. **Build Transparency** in how government decisions reflect community inputs.
 
----
-
-## 💡 Suggestions and Contributions
-We welcome all ideas and suggestions to improve this project! If you have something valuable to add, feel free to:
-- Open an **Issue**.
-- Submit a **Pull Request**.
-- Share your suggestions in the discussions.
-
 Let's make this project a success together!
 
 ---
@@ -63,12 +53,6 @@ This project is licensed under the [MIT License](LICENSE).
 - **xAI's Grok API** - For enabling powerful AI integrations.
 - All contributors and participants working to make a difference.
 
----
-
-## 📬 Contact
-For any inquiries or collaboration, reach out at:
-- **Email**: [your.email@example.com]
-- **GitHub**: [Your GitHub Username](https://github.com/your-username)
 
 ---
 
