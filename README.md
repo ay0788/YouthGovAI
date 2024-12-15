@@ -1,5 +1,5 @@
 # AI-Powered Youth Engagement Hub
-
+![logo](https://github.com/ay0788/YouthGovAI/blob/main/youth.jpg)
 ## 🚀 Project Overview
 **AI-Powered Youth Engagement Hub: Empowering Young Minds in Government Decision-Making**
 
