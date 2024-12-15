@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Body and Background */
+body {
+    background-color: #f8f9fb;
+    color: #333;
+}
+
+/* Navigation Bar */
+.navbar {
+    background-color: #1f4f66;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.logo {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.nav-links .active {
+    background-color: #4f90b2;
+    border-radius: 5px;
+}
+
+.profile-icon {
+    background-color: #4f90b2;
+    color: #fff;
+    border-radius: 50%;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+/* Form Container */
+.container {
+    background: #fff;
+    margin: 50px auto;
+    max-width: 500px;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h2 {
+    font-size: 1em;
+    color: #888;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+button {
+    background-color: #1f4f66;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background-color: #4f90b2;
+}
