@@ -42,7 +42,15 @@ By empowering young people to collaborate and share their insights, the project 
 Let's make this project a success together!
 
 ---
+# YouthGovAI Prototype
 
+You can check out the **YouthGovAI Prototype** by clicking the link below:
+
+[Check Prototype](https://youthgovai-g8bp.glide.page/dl/6471c6)
+
+There will be changes in the future.
+
+---
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
